@@ -1,2 +1,2 @@
 # study-7
-study about JPA(H2)
+JPA(H2)
